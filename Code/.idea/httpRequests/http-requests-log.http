@@ -1,0 +1,36 @@
+GET http://localhost:8000/human_resource
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.3.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2025-02-26T213519.200.json
+
+###
+
+GET http://localhost:8000/human_resource
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.3.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2025-02-26T213355.200.json
+
+###
+
+GET http://localhost:8000/human_resource
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.3.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2025-02-26T213240.200.json
+
+###
+
+GET http://localhost:8000/human_resource
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.3.2
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2025-02-26T213200.200.json
+
+###
+

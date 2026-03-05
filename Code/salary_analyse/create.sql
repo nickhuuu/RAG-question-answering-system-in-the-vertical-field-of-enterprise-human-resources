@@ -1,0 +1,9 @@
+CREATE TABLE salary (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    name VARCHAR(50) NOT NULL,
+    company VARCHAR(50) NOT NULL ,
+    position VARCHAR(50) NOT NULL,
+    salary DECIMAL(10,2) NOT NULL
+);
+
+
